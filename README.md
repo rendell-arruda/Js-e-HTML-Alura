@@ -1,2 +1,10 @@
-# Js-e-HTML-Alura
-este repositorio contem os curso de : - Js e HTML: pratique lógica com desenhos, animações e um jogo; - JS e HTML : pratique lógica com desenhos e animacões e um jogo.
+# Js para front-end-Alura
+-----------------------------------------------
+
+Este repositorio contem os materiais dos cursos:
+- [x] Js e HTML: pratique lógica com desenhos, animações e um jogo; 
+- [ ] JavaScript: manipulando o DOM.
+
+<h4 align="center"> 
+	🚧  🚀 Em construção...  🚧
+</h4>
